@@ -1,5 +1,5 @@
-# # {Autolib Electric Car-Sharing Company}
-#### {Contributor's Name}
+#  Autolib Electric Car-Sharing Company
+## Contributor's Name
 Kanyatte Macharia
 ## Description
 The project is about processing data from electric car stations so as to know how electric cars are used from one city to another
