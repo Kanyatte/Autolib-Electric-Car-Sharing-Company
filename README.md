@@ -10,4 +10,4 @@ The dataset containing the people in certain countries and their personal profes
 
 A description to the Financialdataset.csv - http://bit.ly/VariableDefinitions
 ## Support and contact details
-{you may contact me @kanyatte.macharia1@gmail.com if you need any clarification or want to suggest an addition}
+You may contact me @kanyatte.macharia1@gmail.com if you need any clarification or want to suggest an addition
